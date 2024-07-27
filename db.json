@@ -23,35 +23,35 @@
   ],
   "items": [
     {
-      "id": 1
+      "id": 1,
       "listId": 1,
       "title": "Pan",
       "quantity": 1,
       "price": 19.99
     },
     {
-      "id": 2
+      "id": 2,
       "listId": 2,
       "title": "headset",
       "quantity": 1,
       "price": 74.99
     },
     {
-      "id": 3
+      "id": 3,
       "listId": 3,
       "title": "vitamins",
       "quantity": 1,
       "price": 9.99
     },
     {
-      "id": 4
+      "id": 4,
       "listId": 4,
       "title": "graphic t-shirt",
       "quantity": 1,
       "price": 19.99
     },
     {
-      "id": 5
+      "id": 5,
       "listId": 5,
       "title": "toilet paper",
       "quantity": 4,
@@ -65,14 +65,14 @@
       "price": 499.99
     },
     {
-      "id": 7
+      "id": 7,
       "listId": 4,
       "title": "jeans",
       "quantity": 1,
       "price": 29.99
     },
     {
-      "id": 8
+      "id": 8,
       "listId": 1,
       "title": "air fryer",
       "quantity": 1,
